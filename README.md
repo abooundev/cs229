@@ -2,7 +2,8 @@
 
 * Stanford CS229: Machine Learning (**Autumn 2018**)
   * [youtube](https://www.youtube.com/watch?v=jGwO_UgTS7I&feature=youtu.be)
-  * [syllabus](http://cs229.stanford.edu/syllabus-autumn2018.html)  
+  * [syllabus, Autumn 2018](http://cs229.stanford.edu/syllabus-autumn2018.html) // youtube version
+  * [syllabus, fall 2020](http://cs229.stanford.edu/syllabus-fall2020.html)  
 
 ## study
 
