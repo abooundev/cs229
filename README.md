@@ -1,12 +1,8 @@
 # cs229n
 
 * Stanford CS229: Machine Learning (**Autumn 2018**)
-
   * [youtube](https://www.youtube.com/watch?v=jGwO_UgTS7I&feature=youtu.be)
-
-  * [syllabus](http://cs229.stanford.edu/syllabus-autumn2018.html)
-
-    
+  * [syllabus](http://cs229.stanford.edu/syllabus-autumn2018.html)  
 
 ## study
 
