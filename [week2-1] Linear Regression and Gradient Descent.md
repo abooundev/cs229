@@ -8,3 +8,9 @@
          2. Least squares revisited
     *	3. Probabilistic interpretation
 
+
+
+# 1. Linear Regression
+
+# 2. Gradient Descent
+
