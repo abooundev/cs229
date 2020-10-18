@@ -4,19 +4,19 @@
 
 ### Part I Linear Regression
 
-1. LMS algorithm
+1. LMS algorithm //week2-1
 2. The normal equations
    1.  Matrix derivatives
    2. Least squares revisited
 3. Probabilistic interpretation
-4. Locally weighted linear regression
+4. Locally weighted linear regression //week2-2
 
 
 
 ### Part II Classification and logistic regression
 
 5. Logistic regression
-6. Digression: The perceptron learning algorithn
+6. Digression: The perceptron learning algorithn // week3-1
 7. Another algorithm for maximizing l(θ)
 
 
@@ -33,7 +33,7 @@
 
 ### Part IV Generative Learning algorithms
 
-1. Gaussian discriminant analysis
+1. Gaussian discriminant analysis //week3-2
    1. The multivariate normal distribution
    2. The Gaussian Discriminant Analysis model
    3. Discussion: GDA and logistic regression
@@ -48,7 +48,7 @@
 
 ### Part V Kernel Methods
 
-1. Kernel Methods
+1. Kernel Methods #week4-2
    1. Feature maps
    2. LMS (least mean squares) with features
    3. LMS with the kernel trick
@@ -56,7 +56,7 @@
 
 ### Part VI Support Vector Machines
 
-2. Margins: Intuition
+2. Margins: Intuition #week4-1
 3. Notation
 4. Functional and geometric margins
 5. The optimal margin classifier
