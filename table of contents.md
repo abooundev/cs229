@@ -21,7 +21,7 @@
 
 
 
-### Part III Generalized Linear Models5
+### Part III Generalized Linear Models
 
 8. The exponential family
 9. Constructing GLMs
