@@ -1,4 +1,4 @@
-# cs229n
+# cs229
 
 * Stanford CS229: Machine Learning (**Autumn 2018**)
   * [youtube](https://www.youtube.com/watch?v=jGwO_UgTS7I&feature=youtu.be)
